@@ -1,9 +1,7 @@
-package com.stackroute.commander.test;
+package com.stackroute;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.stackroute.RectanglePerimeter;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

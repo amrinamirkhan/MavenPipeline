@@ -1,6 +1,5 @@
-package com.stackroute.commander.test;
+package com.stackroute;
 
-import com.stackroute.RectanglePerimeter;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
