@@ -9,7 +9,7 @@ public class RectanglePerimeterTests {
     private RectanglePerimeter rectanglePerimeter;
 
     @BeforeEach
-    public void setup() {
+    public void setUp() {
         rectanglePerimeter = new RectanglePerimeter();
     }
 
