@@ -9,9 +9,9 @@ Refer the problem.md file for problem description.
 
 2. **CLONE** the forked repository, containing the boilerplate in your local machine
      
-3. Navigate to Exercise-bt-operator-arithmeticoperator folder
+3. Navigate to exercise-bt-operator-arithmeticoperator folder
 
-    `cd Exercise-bt-operator-arithmeticoperator`
+    `cd exercise-bt-operator-arithmeticoperator`
 
 4. Check the status of your repository
      
@@ -46,4 +46,4 @@ Refer the problem.md file for problem description.
 > - Intimate your Mentor on Slack and/or Send an Email to learner.support@stackroute.in - with your Git URL - Once you done working and is ready for final submission.
 
 ### Further Instructions on Release
-- Right click on the Assignment, select Run As -> JUnit Test to run your Assignment.
+> - Right click on the Assignment, select Run As -> JUnit Test to run your Assignment.

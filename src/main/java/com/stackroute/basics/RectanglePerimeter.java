@@ -1,6 +1,7 @@
 package com.stackroute.basics;
 
 
+
 public class RectanglePerimeter {
     public static void main(String[] args) {
         new RectanglePerimeter().getValues();
@@ -8,6 +9,7 @@ public class RectanglePerimeter {
 
     //get user input from console
     public void getValues() {
+
     }
 
     //write logic to find perimeter of rectangle here
