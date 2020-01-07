@@ -14,7 +14,7 @@ public class RectanglePerimeterAppTests {
     private RectanglePerimeter rectanglePerimeter;
 
     @BeforeEach
-    public void setup() {
+    public void setUp() {
         rectanglePerimeter = new RectanglePerimeter();
         outStream = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outStream));
